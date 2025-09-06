@@ -1,5 +1,5 @@
 // Taller de Investigación sobre Arreglos en JavaScript
-// Nombre del estudiante: [Tu nombre completo aquí]
+// Nombre del estudiante: [Hanna Garcia Guerra]
 
 // Parte 2: El Universo de los Arreglos
 
